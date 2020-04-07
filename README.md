@@ -14,7 +14,7 @@ DSC06927.JPG 60
 編譯後，於命令列執行並使用明令列參數指定資料夾的路徑
 
 ```bash
-$ HDR.exe [image_dir]
+$ ./HDR [image_dir]
 ```
 
 程式會產生 radiance maps (hdr.hdr) 及使用 Reinhard tone-mapping 的結果 (tone.jpg)
