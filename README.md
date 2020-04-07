@@ -11,7 +11,7 @@ DSC06927.JPG 60
 ...
 ```
 
-使用Visual Studio編譯，指定資料夾的路徑
+編譯後，於命令列執行並使用明令列參數指定資料夾的路徑
 
 ```bash
 $ HDR.exe [image_dir]
